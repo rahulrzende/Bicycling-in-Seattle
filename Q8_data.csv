@@ -1,0 +1,6 @@
+#,Field,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+1,"Bicycle Infrastructure (Dedicated lanes, parking spots, support in lightrail/buses, shared bicycles)",1.00,10.00,6.88,2.89,8.36,24
+2,"Safety (of bicycle equipment, rider)",0.00,10.00,6.75,2.63,6.94,24
+3,"Personal Reasons (care for environment, physical fitness, being able to afford and maintain a bicycle)",1.00,10.00,7.04,2.69,7.24,25
+4,"Environment (Weather, bicycle route/terrain, quality of air, road and traffic conditions,)",1.00,10.00,5.29,2.89,8.37,24
+5,"Community support (socially active bicycle community in the city, more people bicycling everyday)",0.00,9.00,3.30,2.66,7.08,23
